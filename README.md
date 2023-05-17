@@ -2,3 +2,6 @@
 <a href="https://www.instagram.com/nishant3454/">
   	<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></img>
 </a>
+<a href="https://www.linkedin.com/in/nishant-sharma89/">
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></img>
+</a>
