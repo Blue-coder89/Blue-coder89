@@ -33,8 +33,9 @@
 ![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/b0dd6721-2053-40f8-adad-55c3317d1885)
 ![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/c061447c-4bad-4b29-9370-0ace858baedb)
 
-## Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-coder89)](https://github.com/anuraghazra/github-readme-stats)
+## :trophy: My Github Stats <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-coder89&show_icons=true&theme=tokyonight&count_private=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-coder89&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=tokyonight)
 
 
 
