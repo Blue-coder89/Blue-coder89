@@ -22,6 +22,12 @@
 
 ## Tech Stack:
 ![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/3931f95e-f6d7-444a-9b9b-340cc26139bb)
+![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/2a26ad54-d232-46f3-96fa-42fb203f0a5f)
+![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/2a47faa9-7c43-4490-b6c2-5f7a32b9eb06)
+![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/e967d50b-9a20-43d4-9162-32452cc7ec1a)
+![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/b2d5f796-34a3-4026-b254-e5dc477adbfa)
+![image](https://github.com/Blue-coder89/Blue-coder89/assets/93086180/d3ac92d2-0053-4cc5-8130-4ca390425b49)
+
 
 
 ## :trophy: My Github Stats <br>
